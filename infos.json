@@ -1,0 +1,13 @@
+{
+"displayName" : "usersapps",
+"author" : ["Yoann LECLERC"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Liste les logiciel installer en tant qu'utilisateur",
+		"en" : "List of software installed as user"
+    }
+}
