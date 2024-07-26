@@ -1,6 +1,6 @@
 **ATTENTION**
 
-Il va falloir modifier le script powershell avant de le déployer
+Il va falloir modifier le script agent/Windows/usersapps.ps1 powershell avant de le déployer
 RegexDeSelectionProfile et UserAExclure seront à remplacer, tout est indiqué dans les commentaire au dessus de la ligne contenant ces mots
 
 
